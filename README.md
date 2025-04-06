@@ -1,4 +1,4 @@
-# 1 ♟️ Chess with Gemini AI
+# ♟️ Chess with Gemini AI
 
 This project is an interactive chess game where **two AI agents** play against each other using **Google's Gemini AI**. Built with **Python**, **Streamlit**, and **python-chess**, this app runs directly in your browser — and the **moves are printed live in the VS Code terminal** during execution for full traceability.
 
